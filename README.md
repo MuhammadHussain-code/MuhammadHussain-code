@@ -40,12 +40,12 @@
 - ⚡ Fun fact **I love playing games.**
 
     
-<p><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhussain-code&"  alt="muhammadhussain-code" /></p>
-<p><img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhussain-code&show_icons=true&locale=en&layout=compact"  alt="muhammadhussain-code" /></p>
+<p><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhussain-code&theme=monokai"  alt="muhammadhussain-code" /></p>
+<p><img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhussain-code&show_icons=true&locale=en&layout=compact&theme=monokai"  alt="muhammadhussain-code" /></p>
 
   
 
-<p>&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=muhammadhussain-code&show_icons=true&locale=en"  alt="muhammadhussain-code" /></p>
+<p>&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=muhammadhussain-code&show_icons=true&locale=en&theme=monokai"  alt="muhammadhussain-code" /></p>
 
 <h3  align="left">Connect with me:</h3>
 
