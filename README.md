@@ -51,14 +51,7 @@
 
 <p  align="left">
 
-<a  href="https://twitter.com/@muhammad3221"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="@muhammad3221"  height="30"  width="40" /></a>
-
-<a  href="https://linkedin.com/in/muhammad-hussain-834b38a0"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="muhammad-hussain-834b38a0"  height="30"  width="40" /></a>
-
-<a  href="https://stackoverflow.com/users/https://stackoverflow.com/users/13398363/muhammad-hussain"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"  alt="https://stackoverflow.com/users/13398363/muhammad-hussain"  height="30"  width="40" /></a>
-
-<a  href="https://instagram.com/https://www.instagram.com/muhammadhussain99100/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="https://www.instagram.com/muhammadhussain99100/"  height="30"  width="40" /></a>
-
+<a href="https://twitter.com/@muhammad3221"  target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="@muhammad3221" height="30" width="40"/></a><a href="https://linkedin.com/in/muhammad-hussain-834b38a0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="muhammad-hussain-834b38a0"  height="30"  width="40" /></a><a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13398363/muhammad-hussain"  target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"  alt="https://stackoverflow.com/users/13398363/muhammad-hussain"  height="30" width="40" /></a><a  href="https://instagram.com/https://www.instagram.com/muhammadhussain99100/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="https://www.instagram.com/muhammadhussain99100/"  height="30"  width="40" /></a>
 </p>
 
   
