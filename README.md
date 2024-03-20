@@ -1,22 +1,41 @@
+
 <h1  align="center">Hi 👋, I'm Muhammad Hussain</h1>
+
+  
 
 <h3  align="center">Software Engineer | MERN dev | Building innovative Web & Mobile apps.</h3>
 
+  
+
 <p  align="left"> <img  src="https://komarev.com/ghpvc/?username=muhammadhussain-code&label=Profile%20views&color=0e75b6&style=flat"  alt="muhammadhussain-code" /> </p>
 
--   🔭 I’m currently working on [Sendmea](https://sendmea.io/) and [Andymation](https://apps.apple.com/us/app/andymation-flipbooks/id6451327356)
+- 🔭 I’m currently working on [Sendmea](https://sendmea.io/) and [Andymation](https://apps.apple.com/us/app/andymation-flipbooks/id6451327356)
 
--   🌱 I’m currently learning **Flutter**
+  
 
--   👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing](https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing)
+- 🌱 I’m currently learning **Flutter**
 
--   💬 Ask me about **React, Node and Next**
+  
 
--   📫 How to reach me **muhammahussain99100@gmail.com**
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing](https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing)
 
--   📄 Know about my experiences [https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing](https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing)
+  
 
--   ⚡ Fun fact **I love playing games.**
+- 💬 Ask me about **React, Node and Next**
+
+  
+
+- 📫 How to reach me **muhammahussain99100@gmail.com**
+
+  
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing](https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing)
+
+  
+
+- ⚡ Fun fact **I love playing games.**
+
+  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhussain-code&theme=monokai" alt="muhammadhussain-code" /></p>
 
