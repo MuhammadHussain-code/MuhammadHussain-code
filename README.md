@@ -8,7 +8,7 @@
 
 <p  align="left"> <img  src="https://komarev.com/ghpvc/?username=muhammadhussain-code&label=Profile%20views&color=0e75b6&style=flat"  alt="muhammadhussain-code" /> </p>
 
-- 🔭 I'm currently working on [Sendmea](https://sendmea.io/) and [Andymation](https://apps.apple.com/us/app/andymation-flipbooks/id6451327356)
+- 🔭 I'm currently working on [Minute Master](https://minute-master.com/)
 
   
 
@@ -16,11 +16,11 @@
 
   
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [my portfolio](https://m-hussain-portfolio.web.app/)
 
   
 
-- 💬 Ask me about **React, Node and Next**
+- 💬 Ask me about **React, Node, Next and Javascript**
 
   
 
