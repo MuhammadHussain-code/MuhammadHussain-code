@@ -36,6 +36,15 @@
 
   
 
+<h3 align="left">💳 Support my work:</h3>
+
+<p align="left">
+<a href="https://wise.com/pay/me/muhammadh4357" target="blank">
+<img src="./wise.png" alt="Pay with Wise" height="30" width="40" style="background: white; padding: 5px; border-radius: 5px;"/>
+</a>
+<span style="margin-left: 10px; font-weight: bold;">Pay me using Wise</span>
+</p>
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhussain-code&theme=monokai" alt="muhammadhussain-code" /></p> -->
 
 <h3  align="left">Connect with me:</h3>
