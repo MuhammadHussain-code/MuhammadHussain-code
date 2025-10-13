@@ -38,12 +38,44 @@
 
 <h3 align="left">💳 Support my work:</h3>
 
-<p align="left">
-<a href="https://wise.com/pay/me/muhammadh4357" target="blank">
-<img src="./wise.png" alt="Pay with Wise" height="30" width="40" style="background: white; padding: 5px; border-radius: 5px;"/>
-</a>
-<span style="margin-left: 10px; font-weight: bold;">Pay me using Wise</span>
-</p>
+<div align="left">
+  <a href="https://wise.com/pay/me/muhammadh4357" target="_blank" style="text-decoration: none;">
+    <div style="
+      display: inline-flex;
+      align-items: center;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      padding: 12px 20px;
+      border-radius: 25px;
+      box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+      transition: all 0.3s ease;
+      border: 2px solid transparent;
+      background-clip: padding-box;
+    " onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(102, 126, 234, 0.3)'">
+      <img src="./wise.png" alt="Wise Logo" height="28" width="28" style="
+        background: white;
+        padding: 6px;
+        border-radius: 50%;
+        margin-right: 12px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      "/>
+      <span style="
+        color: white;
+        font-weight: 600;
+        font-size: 16px;
+        text-shadow: 0 1px 2px rgba(0,0,0,0.1);
+        letter-spacing: 0.5px;
+      ">💸 Pay with Wise</span>
+    </div>
+  </a>
+</div>
+
+<div align="left" style="margin-top: 8px;">
+  <span style="
+    color: #666;
+    font-size: 12px;
+    font-style: italic;
+  ">✨ Fast, secure, and low-cost international transfers</span>
+</div>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhussain-code&theme=monokai" alt="muhammadhussain-code" /></p> -->
 
