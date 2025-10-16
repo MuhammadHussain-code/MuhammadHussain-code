@@ -1,40 +1,22 @@
 <h1  align="center">Hi 👋, I'm Muhammad Hussain</h1>
 
-  
-
 <h3  align="center">Software Engineer | MERN dev | Building innovative Web & Mobile apps.</h3>
-
-  
 
 <p  align="left"> <img  src="https://komarev.com/ghpvc/?username=muhammadhussain-code&label=Profile%20views&color=0e75b6&style=flat"  alt="muhammadhussain-code" /> </p>
 
 - 🔭 I'm currently working on [Minute Master](https://minute-master.com/)
 
-  
-
 - 🌱 I'm currently learning **Flutter**
-
-  
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://m-hussain-portfolio.web.app/)
 
-  
-
 - 💬 Ask me about **React, Node, Next and Javascript**
-
-  
 
 - 📫 How to reach me **muhammadhussain99100@gmail.com**
 
-  
-
 - 📄 Know about my experiences [in my resume](https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing)
 
-  
-
 - ⚡ Fun fact **I love playing games.**
-
-  
 
 <h3 align="left">💳 Support my work:</h3>
 
@@ -79,11 +61,151 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhussain-code&theme=monokai" alt="muhammadhussain-code" /></p> -->
 
-<h3  align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 
-<p  align="left">
-<a  href="https://twitter.com/muhammad3221"  target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="@muhammad3221"  height="30"  width="40"/></a><a  href="https://linkedin.com/in/muhammad-hussain-834b38a0"  target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="muhammad-hussain-834b38a0"  height="30"  width="40" /></a><a  href="https://stackoverflow.com/users/13398363/muhammad-hussain"  target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"  alt="muhammad-hussain"  height="30"  width="40" /></a><a  href="https://www.instagram.com/muhammadhussain99100/"  target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="muhammadhussain99100"  height="30"  width="40" /></a><a href="https://www.fiverr.com/hussain_code?public_mode=true" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr Profile" height="30" width="40" /></a><a href="https://www.upwork.com/freelancers/~01a67db2f46b0d7806?viewMode=1" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="Upwork Profile" height="30" width="40" /></a><a href="http://wa.me/+923423589874" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-</p>
+<div align="left" style="margin-bottom: 10px;">
+  <span style="
+    color: #666;
+    font-size: 14px;
+    font-style: italic;
+  ">💬 Let's connect! Click any icon below to reach out</span>
+</div>
+
+<div align="left" style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+">
+  <!-- Twitter -->
+  <a href="https://twitter.com/muhammad3221" target="_blank" style="text-decoration: none;">
+    <div style="
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 50px;
+      height: 50px;
+      background: linear-gradient(135deg, #1da1f2, #0d8bd9);
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(29, 161, 242, 0.3);
+      transition: all 0.3s ease;
+      border: 2px solid transparent;
+    " onmouseover="this.style.transform='translateY(-3px) scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(29, 161, 242, 0.4)'" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 4px 12px rgba(29, 161, 242, 0.3)'">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="24" width="24" style="filter: brightness(0) invert(1);"/>
+    </div>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/muhammad-hussain-834b38a0" target="_blank" style="text-decoration: none;">
+    <div style="
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 50px;
+      height: 50px;
+      background: linear-gradient(135deg, #0077b5, #005885);
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 119, 181, 0.3);
+      transition: all 0.3s ease;
+    " onmouseover="this.style.transform='translateY(-3px) scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0, 119, 181, 0.4)'" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 4px 12px rgba(0, 119, 181, 0.3)'">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="24" width="24" style="filter: brightness(0) invert(1);"/>
+    </div>
+  </a>
+
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/13398363/muhammad-hussain" target="_blank" style="text-decoration: none;">
+    <div style="
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 50px;
+      height: 50px;
+      background: linear-gradient(135deg, #f48024, #d2691e);
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(244, 128, 36, 0.3);
+      transition: all 0.3s ease;
+    " onmouseover="this.style.transform='translateY(-3px) scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(244, 128, 36, 0.4)'" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 4px 12px rgba(244, 128, 36, 0.3)'">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="24" width="24" style="filter: brightness(0) invert(1);"/>
+    </div>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/muhammadhussain99100/" target="_blank" style="text-decoration: none;">
+    <div style="
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 50px;
+      height: 50px;
+      background: linear-gradient(135deg, #e4405f, #c13584, #833ab4);
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(228, 64, 95, 0.3);
+      transition: all 0.3s ease;
+    " onmouseover="this.style.transform='translateY(-3px) scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(228, 64, 95, 0.4)'" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 4px 12px rgba(228, 64, 95, 0.3)'">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="24" width="24" style="filter: brightness(0) invert(1);"/>
+    </div>
+  </a>
+
+  <!-- Fiverr -->
+  <a href="https://www.fiverr.com/hussain_code?public_mode=true" target="_blank" style="text-decoration: none;">
+    <div style="
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 50px;
+      height: 50px;
+      background: linear-gradient(135deg, #1dbf73, #0fa85a);
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(29, 191, 115, 0.3);
+      transition: all 0.3s ease;
+    " onmouseover="this.style.transform='translateY(-3px) scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(29, 191, 115, 0.4)'" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 4px 12px rgba(29, 191, 115, 0.3)'">
+      <img src="https://cdn.
+worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="24" width="24" style="filter: brightness(0) invert(1);"/>
+    </div>
+  </a>
+
+  <!-- Upwork -->
+  <a href="https://www.upwork.com/freelancers/~01a67db2f46b0d7806?viewMode=1" target="_blank" style="text-decoration: none;">
+    <div style="
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 50px;
+      height: 50px;
+      background: linear-gradient(135deg, #14a800, #0d7a00);
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(20, 168, 0, 0.3);
+      transition: all 0.3s ease;
+    " onmouseover="this.style.transform='translateY(-3px) scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(20, 168, 0, 0.4)'" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 4px 12px rgba(20, 168, 0, 0.3)'">
+      <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="Upwork" height="24" width="24" style="filter: brightness(0) invert(1);"/>
+    </div>
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="http://wa.me/+923423589874" target="_blank" style="text-decoration: none;">
+    <div style="
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 50px;
+      height: 50px;
+      background: linear-gradient(135deg, #25d366, #128c7e);
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(37, 211, 102, 0.3);
+      transition: all 0.3s ease;
+    " onmouseover="this.style.transform='translateY(-3px) scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(37, 211, 102, 0.4)'" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 4px 12px rgba(37, 211, 102, 0.3)'">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="24" width="24" style="filter: brightness(0) invert(1);"/>
+    </div>
+  </a>
+</div>
+
+<div align="left" style="margin-top: 15px;">
+  <span style="
+    color: #888;
+    font-size: 12px;
+    font-style: italic;
+  ">🚀 Hover over any icon to see the magic! ✨</span>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
