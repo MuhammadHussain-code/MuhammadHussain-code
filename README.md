@@ -71,7 +71,7 @@
   <a href="https://twitter.com/muhammad3221" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
-  <a href="https://linkedin.com/in/muhammad-hussain-834b38a0" target="_blank">
+  <a href="https://www.linkedin.com/in/mhussain007/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/13398363/muhammad-hussain" target="_blank">
