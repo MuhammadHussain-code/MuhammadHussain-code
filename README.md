@@ -86,7 +86,7 @@
   <a href="https://www.upwork.com/freelancers/~01a67db2f46b0d7806?viewMode=1" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="Upwork" height="40" width="40" />
   </a>
-  <a href="http://wa.me/+923423589874" target="_blank">
+  <a href="https://wa.me/+923423589874" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40" width="40" />
   </a>
 </p>
@@ -94,7 +94,7 @@
 <p align="left">
   <strong>📱 Quick Contact:</strong><br>
   <a href="mailto:muhammadhussain99100@gmail.com">📧 Email me</a> • 
-  <a href="http://wa.me/+923423589874">💬 WhatsApp</a> • 
+  <a href="https://wa.me/+923423589874">💬 WhatsApp</a> •
   <a href="https://www.fiverr.com/hussain_code?public_mode=true">🎯 Hire me on Fiverr</a>
 </p>
 
