@@ -21,7 +21,7 @@
 <h3 align="left">💳 Support my work:</h3>
 
 <div align="left">
-  <a href="https://wise.com/pay/me/muhammadh4357" target="_blank" style="text-decoration: none;">
+  <a href="https://wise.com/pay/me/muhammadh4357" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <div style="
       display: inline-flex;
       align-items: center;
@@ -53,7 +53,6 @@
 
 <div align="left" style="margin-top: 8px;">
   <span style="
-    color: #666;
     font-size: 12px;
     font-style: italic;
   ">✨ Fast, secure, and low-cost international transfers</span>
