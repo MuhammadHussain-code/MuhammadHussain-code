@@ -53,7 +53,7 @@
 
 <div align="left" style="margin-top: 8px;">
   <span style="
-    color: #666;
+    opacity: 0.8;
     font-size: 12px;
     font-style: italic;
   ">✨ Fast, secure, and low-cost international transfers</span>
