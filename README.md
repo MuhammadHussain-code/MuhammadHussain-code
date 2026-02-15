@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Node, Next and Javascript**
 
-- 📫 How to reach me **muhammadhussain99100@gmail.com**
+- 📫 How to reach me **[muhammadhussain99100@gmail.com](mailto:muhammadhussain99100@gmail.com)**
 
 - 📄 Know about my experiences [in my resume](https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing)
 
@@ -68,25 +68,25 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/muhammad3221" target="_blank">
+  <a href="https://twitter.com/muhammad3221" target="_blank" rel="noopener noreferrer" title="Twitter">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/mhussain007/" target="_blank">
+  <a href="https://www.linkedin.com/in/mhussain007/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/13398363/muhammad-hussain" target="_blank">
+  <a href="https://stackoverflow.com/users/13398363/muhammad-hussain" target="_blank" rel="noopener noreferrer" title="Stack Overflow">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" />
   </a>
-  <a href="https://www.instagram.com/muhammadhussain99100/" target="_blank">
+  <a href="https://www.instagram.com/muhammadhussain99100/" target="_blank" rel="noopener noreferrer" title="Instagram">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://www.fiverr.com/hussain_code?public_mode=true" target="_blank">
+  <a href="https://www.fiverr.com/hussain_code?public_mode=true" target="_blank" rel="noopener noreferrer" title="Fiverr">
     <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="40" width="40" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01a67db2f46b0d7806?viewMode=1" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01a67db2f46b0d7806?viewMode=1" target="_blank" rel="noopener noreferrer" title="Upwork">
     <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="Upwork" height="40" width="40" />
   </a>
-  <a href="https://wa.me/+923423589874" target="_blank">
+  <a href="https://wa.me/+923423589874" target="_blank" rel="noopener noreferrer" title="WhatsApp">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40" width="40" />
   </a>
 </p>
