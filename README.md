@@ -25,6 +25,7 @@
     <div style="
       display: inline-flex;
       align-items: center;
+      background-color: #667eea;
       background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
       padding: 12px 20px;
       border-radius: 25px;
@@ -53,7 +54,7 @@
 
 <div align="left" style="margin-top: 8px;">
   <span style="
-    color: #666;
+    color: #767676;
     font-size: 12px;
     font-style: italic;
   ">✨ Fast, secure, and low-cost international transfers</span>
@@ -68,25 +69,25 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/muhammad3221" target="_blank">
+  <a href="https://twitter.com/muhammad3221" target="_blank" rel="noopener noreferrer" title="Connect on Twitter">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/mhussain007/" target="_blank">
+  <a href="https://www.linkedin.com/in/mhussain007/" target="_blank" rel="noopener noreferrer" title="Connect on LinkedIn">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/13398363/muhammad-hussain" target="_blank">
+  <a href="https://stackoverflow.com/users/13398363/muhammad-hussain" target="_blank" rel="noopener noreferrer" title="View Stack Overflow Profile">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" />
   </a>
-  <a href="https://www.instagram.com/muhammadhussain99100/" target="_blank">
+  <a href="https://www.instagram.com/muhammadhussain99100/" target="_blank" rel="noopener noreferrer" title="Follow on Instagram">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://www.fiverr.com/hussain_code?public_mode=true" target="_blank">
+  <a href="https://www.fiverr.com/hussain_code?public_mode=true" target="_blank" rel="noopener noreferrer" title="Hire me on Fiverr">
     <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="40" width="40" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01a67db2f46b0d7806?viewMode=1" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01a67db2f46b0d7806?viewMode=1" target="_blank" rel="noopener noreferrer" title="Hire me on Upwork">
     <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="Upwork" height="40" width="40" />
   </a>
-  <a href="https://wa.me/+923423589874" target="_blank">
+  <a href="https://wa.me/+923423589874" target="_blank" rel="noopener noreferrer" title="Chat on WhatsApp">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40" width="40" />
   </a>
 </p>
