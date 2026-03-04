@@ -4,7 +4,7 @@
 
 **Software Engineer · MERN Stack · Web & Mobile Apps**
 
-[![Profile views](https://komarev.com/ghpvc/?username=muhammadhussain-code&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/muhammadhussain-code)
+<a href="https://github.com/muhammadhussain-code" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=muhammadhussain-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
 
 </div>
 
@@ -14,12 +14,12 @@
 
 |                  |                                                                                                                                               |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Working on**   | [Minute Master](https://minute-master.com/)                                                                                                   |
+| **Working on**   | <a href="https://minute-master.com/" target="_blank" rel="noopener noreferrer">Minute Master</a>                                                                                                   |
 | **Learning**     | Flutter                                                                                                                                       |
-| **Portfolio**    | [m-hussain-portfolio.web.app](https://m-hussain-portfolio.web.app/)                                                                           |
+| **Portfolio**    | <a href="https://muhammad-hussain.com/" target="_blank" rel="noopener noreferrer">muhammad-hussain.com</a>                                                                           |
 | **Ask me about** | React, Node.js, Next.js, JavaScript                                                                                                           |
-| **Contact**      | [muhammadhussain99100@gmail.com](mailto:muhammadhussain99100@gmail.com) · [hussain@muhammad-hussain.com](mailto:hussain@muhammad-hussain.com) |
-| **Resume**       | [View my resume](https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing)                                          |
+| **Contact**      | <a href="mailto:muhammadhussain99100@gmail.com" target="_blank" rel="noopener noreferrer">muhammadhussain99100@gmail.com</a> · <a href="mailto:hussain@muhammad-hussain.com" target="_blank" rel="noopener noreferrer">hussain@muhammad-hussain.com</a> |
+| **Resume**       | <a href="https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing" target="_blank" rel="noopener noreferrer">View my resume</a>                                          |
 | **Fun fact**     | I love playing games                                                                                                                          |
 
 ---
@@ -62,7 +62,7 @@
   </a>
 </p>
 
-**Quick contact:** [Email](mailto:muhammadhussain99100@gmail.com) · [WhatsApp](https://wa.me/+923423589874) · [Hire on Fiverr](https://www.fiverr.com/hussain_code?public_mode=true)
+**Quick contact:** <a href="mailto:muhammadhussain99100@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> · <a href="https://wa.me/+923423589874" target="_blank" rel="noopener noreferrer">WhatsApp</a> · <a href="https://www.fiverr.com/hussain_code?public_mode=true" target="_blank" rel="noopener noreferrer">Hire on Fiverr</a>
 
 ---
 
@@ -109,3 +109,7 @@
     <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="32" height="32" style="margin: 4px;" />
   </a>
 </p>
+
+<!-- <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhussain-code&show_icons=true&locale=en&layout=compact&theme=monokai" alt="Top Languages" />
+</p> -->
