@@ -1,105 +1,111 @@
-<h1  align="center">Hi 👋, I'm Muhammad Hussain</h1>
+<div align="center">
 
-<h3  align="center">Software Engineer | MERN dev | Building innovative Web & Mobile apps.</h3>
+# Hi, I'm Muhammad Hussain
 
-<p  align="left"> <img  src="https://komarev.com/ghpvc/?username=muhammadhussain-code&label=Profile%20views&color=0e75b6&style=flat"  alt="muhammadhussain-code" /> </p>
+**Software Engineer · MERN Stack · Web & Mobile Apps**
 
-- 🔭 I'm currently working on [Minute Master](https://minute-master.com/)
+[![Profile views](https://komarev.com/ghpvc/?username=muhammadhussain-code&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/muhammadhussain-code)
 
-- 🌱 I'm currently learning **Flutter**
+</div>
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://m-hussain-portfolio.web.app/)
+---
 
-- 💬 Ask me about **React, Node, Next and Javascript**
+## About
 
-- 📫 How to reach me **muhammadhussain99100@gmail.com**
+|                  |                                                                                                                                               |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Working on**   | [Minute Master](https://minute-master.com/)                                                                                                   |
+| **Learning**     | Flutter                                                                                                                                       |
+| **Portfolio**    | [m-hussain-portfolio.web.app](https://m-hussain-portfolio.web.app/)                                                                           |
+| **Ask me about** | React, Node.js, Next.js, JavaScript                                                                                                           |
+| **Contact**      | [muhammadhussain99100@gmail.com](mailto:muhammadhussain99100@gmail.com) · [hussain@muhammad-hussain.com](mailto:hussain@muhammad-hussain.com) |
+| **Resume**       | [View my resume](https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing)                                          |
+| **Fun fact**     | I love playing games                                                                                                                          |
 
-- 📄 Know about my experiences [in my resume](https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I love playing games.**
-
-<h3 align="left">💳 Support my work:</h3>
+## Support my work
 
 <div align="left">
-  <a href="https://wise.com/pay/me/muhammadh4357" target="_blank" style="text-decoration: none;">
-    <div style="
-      display: inline-flex;
-      align-items: center;
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-      padding: 12px 20px;
-      border-radius: 25px;
-      box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
-      transition: all 0.3s ease;
-      border: 2px solid transparent;
-      background-clip: padding-box;
-    " onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(102, 126, 234, 0.3)'">
-      <img src="./wise.png" alt="Wise Logo" height="28" width="28" style="
-        background: white;
-        padding: 6px;
-        border-radius: 50%;
-        margin-right: 12px;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      "/>
-      <span style="
-        color: white;
-        font-weight: 600;
-        font-size: 16px;
-        text-shadow: 0 1px 2px rgba(0,0,0,0.1);
-        letter-spacing: 0.5px;
-      ">💸 Pay with Wise</span>
-    </div>
+  <a href="https://wise.com/pay/me/muhammadh4357" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Pay_with_Wise-220055?style=for-the-badge&logo=wise&logoColor=white" alt="Pay with Wise" />
   </a>
 </div>
 
-<div align="left" style="margin-top: 8px;">
-  <span style="
-    color: #666;
-    font-size: 12px;
-    font-style: italic;
-  ">✨ Fast, secure, and low-cost international transfers</span>
-</div>
+<p align="left" style="color: #64748B; font-size: 12px; margin-top: 4px;">Fast, secure, and low-cost international transfers</p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhussain-code&theme=monokai" alt="muhammadhussain-code" /></p> -->
+---
 
-<h3 align="left">🤝 Connect with me:</h3>
+## Connect
 
 <p align="left">
-  <em>💬 Let's connect! Click any icon below to reach out</em>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/muhammad3221" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
+  <a href="https://twitter.com/muhammad3221" target="_blank" rel="noopener noreferrer" title="Twitter">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X (Twitter)" width="24" height="24" style="margin-right: 8px;" />
   </a>
-  <a href="https://linkedin.com/in/muhammad-hussain-834b38a0" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  <a href="https://linkedin.com/in/muhammad-hussain-834b38a0" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="24" height="24" style="margin-right: 8px;" />
   </a>
-  <a href="https://stackoverflow.com/users/13398363/muhammad-hussain" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" />
+  <a href="https://stackoverflow.com/users/13398363/muhammad-hussain" target="_blank" rel="noopener noreferrer" title="Stack Overflow">
+    <img src="https://cdn.simpleicons.org/stackoverflow/F48024" alt="Stack Overflow" width="24" height="24" style="margin-right: 8px;" />
   </a>
-  <a href="https://www.instagram.com/muhammadhussain99100/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  <a href="https://www.instagram.com/muhammadhussain99100/" target="_blank" rel="noopener noreferrer" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="24" height="24" style="margin-right: 8px;" />
   </a>
-  <a href="https://www.fiverr.com/hussain_code?public_mode=true" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="40" width="40" />
+  <a href="https://www.fiverr.com/hussain_code?public_mode=true" target="_blank" rel="noopener noreferrer" title="Fiverr">
+    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" alt="Fiverr" width="24" height="24" style="margin-right: 8px;" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01a67db2f46b0d7806?viewMode=1" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="Upwork" height="40" width="40" />
+  <a href="https://www.upwork.com/freelancers/~01a67db2f46b0d7806?viewMode=1" target="_blank" rel="noopener noreferrer" title="Upwork">
+    <img src="https://cdn.simpleicons.org/upwork/14A800" alt="Upwork" width="24" height="24" style="margin-right: 8px;" />
   </a>
-  <a href="http://wa.me/+923423589874" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40" width="40" />
+  <a href="https://wa.me/+923423589874" target="_blank" rel="noopener noreferrer" title="WhatsApp">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="24" height="24" />
   </a>
 </p>
 
+**Quick contact:** [Email](mailto:muhammadhussain99100@gmail.com) · [WhatsApp](https://wa.me/+923423589874) · [Hire on Fiverr](https://www.fiverr.com/hussain_code?public_mode=true)
+
+---
+
+## Tech stack
+
 <p align="left">
-  <strong>📱 Quick Contact:</strong><br>
-  <a href="mailto:muhammadhussain99100@gmail.com">📧 Email me</a> • 
-  <a href="http://wa.me/+923423589874">💬 WhatsApp</a> • 
-  <a href="https://www.fiverr.com/hussain_code?public_mode=true">🎯 Hire me on Fiverr</a>
+  <a href="https://dart.dev" target="_blank" rel="noopener noreferrer" title="Dart">
+    <img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="32" height="32" style="margin: 4px;" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer" title="Firebase">
+    <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="32" height="32" style="margin: 4px;" />
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer" title="Flutter">
+    <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="32" height="32" style="margin: 4px;" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git">
+    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="32" height="32" style="margin: 4px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" title="HTML5">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="32" height="32" style="margin: 4px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" title="JavaScript">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="32" height="32" style="margin: 4px;" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" title="MongoDB">
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="32" height="32" style="margin: 4px;" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer" title="Next.js">
+    <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" width="32" height="32" style="margin: 4px;" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer" title="Node.js">
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="32" height="32" style="margin: 4px;" />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noopener noreferrer" title="Postman">
+    <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="32" height="32" style="margin: 4px;" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer" title="React">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="32" height="32" style="margin: 4px;" />
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer" title="React Native">
+    <img src="https://cdn.simpleicons.org/react/FFFFFF" alt="React Native" width="32" height="32" style="margin: 4px;" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" title="TypeScript">
+    <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="32" height="32" style="margin: 4px;" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="40" style="vertical-align:top; margin:4px" title="Nextjs"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhussain-code&show_icons=true&locale=en&layout=compact&theme=monokai" alt="muhammadhussain-code" /></p>
