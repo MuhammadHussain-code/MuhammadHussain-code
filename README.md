@@ -39,7 +39,7 @@
 ## Connect
 
 <p align="left">
-  <a href="https://twitter.com/muhammad3221" target="_blank" rel="noopener noreferrer" title="Twitter">
+  <a href="https://twitter.com/hussainprov0" target="_blank" rel="noopener noreferrer" title="Twitter">
     <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X (Twitter)" width="24" height="24" style="margin-right: 8px;" />
   </a>
   <a href="https://linkedin.com/in/muhammad-hussain-834b38a0" target="_blank" rel="noopener noreferrer" title="LinkedIn">
