@@ -18,6 +18,16 @@
 
 ---
 
+## 🌍 Connect With Me
+
+<div align="center">
+
+<p><a href="https://linkedin.com/in/muhammad-hussain-834b38a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a> <a href="https://twitter.com/hussainprov0"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> <a href="https://stackoverflow.com/users/13398363/muhammad-hussain"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a> <a href="https://www.instagram.com/muhammadhussain99100/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://wa.me/+923423589874"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a></p>
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 - 🔭 Currently building **[Minute Master](https://minute-master.com/)** — my main product in active development
@@ -99,12 +109,6 @@ Open to freelance projects, collaborations, and interesting product ideas.
 <a href="https://wise.com/pay/me/muhammadh4357"><img src="https://img.shields.io/badge/Pay_with_Wise-220055?style=for-the-badge&logo=wise&logoColor=white" alt="Pay with Wise" /></a>
 
 <sub>Fast, secure, and low-cost international transfers</sub>
-
----
-
-## 🌍 Connect With Me
-
-<p><a href="https://linkedin.com/in/muhammad-hussain-834b38a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a> <a href="https://twitter.com/hussainprov0"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> <a href="https://stackoverflow.com/users/13398363/muhammad-hussain"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a> <a href="https://www.instagram.com/muhammadhussain99100/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://wa.me/+923423589874"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a></p>
 
 ---
 
