@@ -12,17 +12,9 @@
 
 <p><a href="https://muhammad-hussain.com/"><img src="https://img.shields.io/badge/Portfolio-muhammad--hussain.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://drive.google.com/file/d/1ZQZqszxzfP2YYsB7yv8P9s_Uo5ecp-9Z/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a> <a href="mailto:muhammadhussain99100@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
-<img src="https://komarev.com/ghpvc/?username=muhammadhussain-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-</div>
-
----
-
-## 🌍 Connect With Me
-
-<div align="center">
-
 <p><a href="https://linkedin.com/in/muhammad-hussain-834b38a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a> <a href="https://twitter.com/hussainprov0"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> <a href="https://stackoverflow.com/users/13398363/muhammad-hussain"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a> <a href="https://www.instagram.com/muhammadhussain99100/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://wa.me/+923423589874"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a></p>
+
+<img src="https://komarev.com/ghpvc/?username=muhammadhussain-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
