@@ -59,9 +59,11 @@
 
 <div align="center">
 
-### MacBook Pro 14″ — Apple M3 Pro
+### MacBook Pro 16″ — Apple M2 Max
 
-<p><img src="https://img.shields.io/badge/Chip-Apple_M3_Pro-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Chip: Apple M3 Pro" /> <img src="https://img.shields.io/badge/RAM-18_GB-0071E3?style=for-the-badge" alt="RAM: 18 GB" /> <img src="https://img.shields.io/badge/SSD-1_TB-6e6e73?style=for-the-badge" alt="SSD: 1 TB" /></p>
+<p><img src="./macbook.svg" alt="MacBook Pro 16-inch" width="520" /></p>
+
+<p><img src="https://img.shields.io/badge/Chip-Apple_M2_Max-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Chip: Apple M2 Max" /> <img src="https://img.shields.io/badge/RAM-32_GB-0071E3?style=for-the-badge" alt="RAM: 32 GB" /> <img src="https://img.shields.io/badge/SSD-1_TB-6e6e73?style=for-the-badge" alt="SSD: 1 TB" /></p>
 
 </div>
 
