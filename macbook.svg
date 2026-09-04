@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="720" height="440" role="img" aria-label="MacBook Pro 16-inch, Apple M2 Max">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 412" width="720" height="412" role="img" aria-label="MacBook Pro 16-inch, Apple M2 Max">
   <defs>
     <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#1b2735"/>
@@ -24,7 +24,8 @@
     </filter>
   </defs>
 
-  <ellipse cx="360" cy="404" rx="300" ry="20" fill="#000" opacity="0.35" filter="url(#soft)"/>
+  <ellipse cx="360" cy="392" rx="286" ry="16" fill="#000" opacity="0.38" filter="url(#soft)"/>
+  <ellipse cx="360" cy="386" rx="300" ry="7" fill="#000" opacity="0.3"/>
 
   <!-- lid -->
   <rect x="112" y="40" width="496" height="316" rx="18" fill="url(#lid)"/>
@@ -55,8 +56,12 @@
     <rect x="352" y="251" width="9" height="15" fill="#e6edf3" opacity="0.9"/>
   </g>
 
-  <!-- base -->
-  <path d="M56 356 h608 l24 30 a10 10 0 0 1 -8 16 H40 a10 10 0 0 1 -8 -16 z" fill="url(#base)"/>
-  <rect x="300" y="360" width="120" height="7" rx="3.5" fill="#111114"/>
-  <rect x="32" y="392" width="656" height="4" rx="2" fill="#0d0d0f" opacity="0.7"/>
+  <!-- base: thin wedge deck seen edge-on -->
+  <path d="M112 356 H608 L648 374 a6 6 0 0 1 -4 10 H76 a6 6 0 0 1 -4 -10 Z" fill="url(#base)"/>
+  <!-- lit top edge of the deck -->
+  <path d="M112 356 H608 L620 361 H100 Z" fill="#5c5c63" opacity="0.6"/>
+  <!-- shaded front lip -->
+  <path d="M100 361 H620 L644 372 H76 Z" fill="#000" opacity="0.12"/>
+  <!-- finger notch -->
+  <path d="M336 384 q24 -10 48 0 Z" fill="#141417"/>
 </svg>
