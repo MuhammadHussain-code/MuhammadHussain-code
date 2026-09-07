@@ -27,7 +27,7 @@ I design and build websites, web apps, and AI features for founders and product 
 <table>
   <tr>
     <td width="34%" valign="top">
-      <a href="https://muhammad-hussain.com/work/minute-master"><img src="./assets/minute-master.webp" alt="Minute Master dashboard" width="280" /></a>
+      <a href="https://muhammad-hussain.com/work/minute-master"><img src="./assets/minute-master-homepage.png" alt="Minute Master homepage — AI-powered meeting governance" width="280" /></a>
     </td>
     <td valign="top">
       <h3>Minute Master</h3>
@@ -49,7 +49,7 @@ I design and build websites, web apps, and AI features for founders and product 
   </tr>
   <tr>
     <td width="34%" valign="top">
-      <a href="https://muhammad-hussain.com/work/sendmea"><img src="./assets/sendmea.webp" alt="SendMea website" width="280" /></a>
+      <a href="https://muhammad-hussain.com/work/sendmea"><img src="./assets/sendmea-homepage.png" alt="SendMea website" width="280" /></a>
     </td>
     <td valign="top">
       <h3>SendMea</h3>
