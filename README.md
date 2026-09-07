@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png" />
-  <img src="./assets/banner-dark.png" alt="Muhammad Hussain — product engineer. Websites, web apps, AI. From first idea to launch." width="1200" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadHussain-code/MuhammadHussain-code/main/assets/banner-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadHussain-code/MuhammadHussain-code/main/assets/banner-light.png" />
+  <img src="https://raw.githubusercontent.com/MuhammadHussain-code/MuhammadHussain-code/main/assets/banner-dark.png" alt="Muhammad Hussain — product engineer" width="100%" />
 </picture>
 
 # Muhammad Hussain
@@ -24,17 +24,41 @@ I design and build websites, web apps, and AI features for founders and product 
 
 ## Featured work
 
-<p>
-  <a href="https://muhammad-hussain.com/work/minute-master"><img src="./assets/minute-master.webp" alt="Minute Master dashboard" width="32%" /></a>
-  <a href="https://muhammad-hussain.com/work/samurai-striping"><img src="./assets/samurai-striping.webp" alt="Samurai Striping website" width="32%" /></a>
-  <a href="https://muhammad-hussain.com/work/sendmea"><img src="./assets/sendmea.webp" alt="SendMea website" width="32%" /></a>
-</p>
-
-| Project | What I did | Links |
-| --- | --- | --- |
-| **Minute Master** | Lead developer for a UK product company: UI rebrand and redesign, iOS app, AI minutes and agenda import, delivery automation. Next.js · TypeScript · GraphQL · PostgreSQL. | [Case study](https://muhammad-hussain.com/work/minute-master) · [Live](https://minute-master.com/) |
-| **Samurai Striping** | Contractor website with residential and commercial quote estimators that price the job on the page. React · Vite · Tailwind. | [Case study](https://muhammad-hussain.com/work/samurai-striping) · [Live](https://samuraistriping.com/) |
-| **SendMea** | Video-testimonial platform: made the browser recording pipeline reliable across Safari and Chrome and hardened the upload path. React · Firebase · Node.js. | [Case study](https://muhammad-hussain.com/work/sendmea) · [Live](https://sendmea.io/) |
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <a href="https://muhammad-hussain.com/work/minute-master"><img src="./assets/minute-master.webp" alt="Minute Master dashboard" width="280" /></a>
+    </td>
+    <td valign="top">
+      <h3>Minute Master</h3>
+      <p>Lead developer for a UK product company: UI rebrand and redesign, iOS app, AI minutes and agenda import, delivery automation.</p>
+      <p>Next.js · TypeScript · GraphQL · PostgreSQL</p>
+      <a href="https://muhammad-hussain.com/work/minute-master">Case study</a> · <a href="https://minute-master.com/">Live site</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="34%" valign="top">
+      <a href="https://muhammad-hussain.com/work/samurai-striping"><img src="./assets/samurai-striping.webp" alt="Samurai Striping website" width="280" /></a>
+    </td>
+    <td valign="top">
+      <h3>Samurai Striping</h3>
+      <p>Contractor website with residential and commercial quote estimators that price the job on the page.</p>
+      <p>React · Vite · Tailwind</p>
+      <a href="https://muhammad-hussain.com/work/samurai-striping">Case study</a> · <a href="https://samuraistriping.com/">Live site</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="34%" valign="top">
+      <a href="https://muhammad-hussain.com/work/sendmea"><img src="./assets/sendmea.webp" alt="SendMea website" width="280" /></a>
+    </td>
+    <td valign="top">
+      <h3>SendMea</h3>
+      <p>Video-testimonial platform: made the browser recording pipeline reliable across Safari and Chrome and hardened the upload path.</p>
+      <p>React · Firebase · Node.js</p>
+      <a href="https://muhammad-hussain.com/work/sendmea">Case study</a> · <a href="https://sendmea.io/">Live site</a>
+    </td>
+  </tr>
+</table>
 
 More projects and case studies: [muhammad-hussain.com/#work](https://muhammad-hussain.com/#work)
 
