@@ -55,7 +55,7 @@ More projects and case studies: [muhammad-hussain.com/#work](https://muhammad-hu
 
 - **Start a project:** [muhammad-hussain.com/#contact](https://muhammad-hussain.com/#contact) · studio enquiries at [softroid.online/contact](https://softroid.online/contact)
 - **Email:** [muhammadhussain99100@gmail.com](mailto:muhammadhussain99100@gmail.com)
-- **Elsewhere:** [LinkedIn](https://linkedin.com/in/mhussain007) · [X](https://twitter.com/hussainprov0) · [Stack Overflow](https://stackoverflow.com/users/13398363/muhammad-hussain) · [CV](https://muhammad-hussain.com/Muhammad-Hussain-CV.pdf)
+- **Elsewhere:** [LinkedIn](https://linkedin.com/in/mhussain007) · [X](https://twitter.com/hussainprov0) · [Stack Overflow](https://stackoverflow.com/users/13398363/muhammad-hussain) · [CV](https://muhammad-hussain.com/Muhammad-Hussain-CV.pdf?v=2026-09-07)
 
 <details>
 <summary><strong>More: extended tools, marketplaces, gear, stats</strong></summary>
