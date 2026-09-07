@@ -75,6 +75,28 @@ More projects and case studies: [muhammad-hussain.com/#work](https://muhammad-hu
   <img src="https://img.shields.io/badge/LLM_%C2%B7_RAG_%C2%B7_Agents-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM, RAG, agents" />
 </p>
 
+## 💻 My Gear
+
+<div align="center">
+
+### MacBook Pro 16″ — Apple M2 Max
+
+<p><img src="./macbook.svg" alt="MacBook Pro 16-inch" width="520" /></p>
+
+<p><img src="https://img.shields.io/badge/Chip-Apple_M2_Max-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Chip: Apple M2 Max" /> <img src="https://img.shields.io/badge/RAM-32_GB-0071E3?style=for-the-badge" alt="RAM: 32 GB" /> <img src="https://img.shields.io/badge/SSD-1_TB-6e6e73?style=for-the-badge" alt="SSD: 1 TB" /></p>
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadhussain-code&theme=tokyonight" alt="GitHub stats" height="180" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadhussain-code&theme=tokyonight" alt="Most used languages" height="180" /></p>
+
+<p><img src="https://streak-stats.demolab.com?user=muhammadhussain-code&theme=tokyonight&hide_border=true" alt="GitHub streak" /></p>
+
+</div>
+
 ## Contact
 
 - **Start a project:** [muhammad-hussain.com/#contact](https://muhammad-hussain.com/#contact) · studio enquiries at [softroid.online/contact](https://softroid.online/contact)
@@ -82,7 +104,7 @@ More projects and case studies: [muhammad-hussain.com/#work](https://muhammad-hu
 - **Elsewhere:** [LinkedIn](https://linkedin.com/in/mhussain007) · [X](https://twitter.com/hussainprov0) · [Stack Overflow](https://stackoverflow.com/users/13398363/muhammad-hussain) · [CV](https://muhammad-hussain.com/Muhammad-Hussain-CV.pdf?v=2026-09-07)
 
 <details>
-<summary><strong>More: extended tools, marketplaces, gear, stats</strong></summary>
+<summary><strong>More: extended tools and marketplaces</strong></summary>
 
 <br/>
 
@@ -108,18 +130,5 @@ Currently learning Flutter for cross-platform mobile work.
 **Marketplaces**
 
 [Upwork](https://www.upwork.com/freelancers/~01a67db2f46b0d7806?viewMode=1) · [Fiverr](https://www.fiverr.com/hussain_code?public_mode=true) (Vetted Pro, 4.9★ across 52 reviews) · [Pay with Wise](https://wise.com/pay/me/muhammadh4357)
-
-**Gear**
-
-MacBook Pro 16″, Apple M2 Max, 32 GB RAM, 1 TB SSD.
-
-<p><img src="./macbook.svg" alt="Illustration of a MacBook Pro 16-inch" width="420" /></p>
-
-**GitHub stats**
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadhussain-code&theme=tokyonight" alt="GitHub stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadhussain-code&theme=tokyonight" alt="Most used languages" height="180" />
-</p>
 
 </details>
